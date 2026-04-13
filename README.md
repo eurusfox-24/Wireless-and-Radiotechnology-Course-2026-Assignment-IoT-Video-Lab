@@ -7,7 +7,7 @@ The system demonstrates how edge devices collect, send, and manage large files i
 - The pipeline is: **Record → Save → Send → Confirm → Delete**
 
 ## Team Roles
-- **Sender (Laptop A):** Minns (or replace with your name)
+- **Sender (Laptop A):** You (or replace with your name)
 - **Receiver (Laptop B):** Partner (or replace with partner's name)
 - **Receiver IP Address:** `192.168.1.x` (Please update with the actual IP address)
 
