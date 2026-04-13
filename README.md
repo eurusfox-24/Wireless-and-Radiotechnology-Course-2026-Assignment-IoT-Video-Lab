@@ -1,4 +1,4 @@
-###Automated Edge-to-Server Video Pipeline
+# Automated Edge-to-Server Video Pipeline
 A reliable IoT data ingestion system featuring automated recording, transfer, and verification.
 
 ## System Overview
